@@ -1,8 +1,8 @@
-# 🎬 Movie Search App - Frontend
+# ScreenSearch - Frontend
 
 A modern movie search and favorites management application, built with Next.js 14+ and React, featuring a design inspired by streaming platforms like Netflix, HBO Max, and Amazon Prime.
 
-## 🚀 Technologies Used
+## Technologies Used
 
 ### Core
 - **Next.js 14+** - React framework with App Router
@@ -22,13 +22,13 @@ A modern movie search and favorites management application, built with Next.js 1
 - **CSS Animations** - Custom animations and transitions
 - **Glassmorphism** - Modern glass/blur effects
 
-## 📦 Prerequisites
+## Prerequisites
 
 - Node.js 18+ 
 - npm or yarn
 - Backend API running on `http://localhost:3000`
 
-## 🔧 Installation
+## Installation
 
 ### 1. Clone the repository
 ```bash
@@ -58,7 +58,7 @@ yarn dev
 
 The application will be available at `http://localhost:3001`
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 frontend/
@@ -89,21 +89,21 @@ frontend/
 └── package.json          
 ```
 
-## ✨ Features
+## Features
 
-### 🔍 Movie Search
+### Movie Search
 - Integrated search with OMDb API
 - Modern interface with visual effects
 - Responsive grid results
 - Loading states and error handling
 
-### ❤️ Favorites System
+### Favorites System
 - Add/remove movies from favorites
 - Real-time synchronization with backend
 - Data persistence in MongoDB
 - Intelligent caching with React Query
 
-### 🎨 Modern Design
+### Modern Design
 - Glassmorphism and backdrop blur
 - Animated gradients
 - Smooth transitions
