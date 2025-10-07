@@ -21,6 +21,10 @@ Detailed documentation for each part of the project is located in their respecti
   - Available scripts
   - Production build
 
+  ![](https://github.com/jacksonn455/ScreenSearch/blob/main/images/image1.png)
+  ![](https://github.com/jacksonn455/ScreenSearch/blob/main/images/image2.png)
+  ![](https://github.com/jacksonn455/ScreenSearch/blob/main/images/image3.png)
+
 ## Quick Start
 
 1. Clone the repository
