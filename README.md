@@ -1,4 +1,4 @@
-## 📖 Documentation
+## Documentation
 
 Detailed documentation for each part of the project is located in their respective directories:
 
@@ -21,7 +21,7 @@ Detailed documentation for each part of the project is located in their respecti
   - Available scripts
   - Production build
 
-## 🚀 Quick Start
+## Quick Start
 
 1. Clone the repository
 2. Access the specific documentation for each part:
@@ -29,6 +29,6 @@ Detailed documentation for each part of the project is located in their respecti
    - For frontend: `cd frontend && cat README.md`
 3. Follow the installation and execution instructions in each README
 
-## 📝 Notes
+## Notes
 
 Each module (backend and frontend) has its own README with detailed and specific instructions to facilitate project development and maintenance.
