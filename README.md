@@ -2,24 +2,9 @@
 
 Detailed documentation for each part of the project is located in their respective directories:
 
-- **[Backend README](./backend/README.md)** - Contains information about:
-  - Technologies used
-  - Environment setup
-  - Dependencies installation
-  - Environment variables
-  - How to run the server
-  - Folder structure
-  - API endpoints
-  - Testing
+- **[Backend README](./backend/README.md)** - Contains information about
 
-- **[Frontend README](./frontend/README.md)** - Contains information about:
-  - Technologies used
-  - Environment setup
-  - Dependencies installation
-  - How to run the project
-  - Component structure
-  - Available scripts
-  - Production build
+- **[Frontend README](./frontend/README.md)** - Contains information about
 
   ![](https://github.com/jacksonn455/ScreenSearch/blob/main/images/image1.png)
   ![](https://github.com/jacksonn455/ScreenSearch/blob/main/images/image2.png)
