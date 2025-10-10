@@ -6,7 +6,7 @@ Detailed documentation for each part of the project is located in their respecti
 
 - **[Frontend README](./frontend/README.md)** - Contains information about
 
-[video](https://youtu.be/-mGRLKJQuuk)
+[video](https://youtu.be/-mGRLKJQuuk)  - Contains all information about project
 
   ![](https://github.com/jacksonn455/ScreenSearch/blob/main/images/image1.png)
   ![](https://github.com/jacksonn455/ScreenSearch/blob/main/images/image2.png)
